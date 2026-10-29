@@ -7,7 +7,7 @@ I'm a **PMO and business transformation leader** based in Atlanta. I help teams 
 - 🗂️ **Build and run PMOs** — intake, prioritization, RACI, and one source of truth for every project
 - 🔄 **Lead transformation** — finance, operations, and systems changes that people actually adopt
 - ⚙️ **Know enterprise systems** — 10+ years of Oracle Cloud ERP / SCM / HCM implementation consulting
-- 🤖 **Build with AI** — I use Claude, Microsoft Copilot, and Monday.com AI every day for reporting and analysis
+- 🤖 **Build with AI** — I use Claude, Microsoft Copilot, and Monday.com Sidekick every day for reporting and analysis
 
 ### A few results I'm proud of
 - Cut AP accrual time from **90 days to 14** as Product Owner of a custom AP platform
